@@ -1,0 +1,6 @@
+{
+  "name": "SWGWMWEB — Modern Websites for Modern Businesses",
+  "description": "Modern, fast, and high-converting websites for restaurants, shops, services, and growing businesses with interactive showcases and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
